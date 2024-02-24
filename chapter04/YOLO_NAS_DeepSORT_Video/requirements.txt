@@ -1,0 +1,2 @@
+super_gradients==3.5.0
+opencv-python
