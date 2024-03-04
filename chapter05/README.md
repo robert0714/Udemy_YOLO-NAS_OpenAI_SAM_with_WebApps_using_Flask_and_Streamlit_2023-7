@@ -1,4 +1,5 @@
 # Chapter5. YOLO-NAS with SORT Object Tracking
+* youtube: https://www.youtube.com/watch?v=rkTi6x5asLw
 ### Conda Environment
 * Install yolo-nas
   ```bash
